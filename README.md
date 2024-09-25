@@ -1,8 +1,16 @@
-# weather_app
+# Weather App
 
-A new Flutter project.
+A new Flutter project. To practice best Flutter and dart practices.
 
 ## Getting Started
+
+### Notes for this app
+
+Create an account at [Open Weather](https://home.openweathermap.org/) to get an `api key` (note that it will take a couple of hours for the endpoint to be available).
+
+Create a `secrets.dart` file in your `lib` folder, and save your api key as `openWeatherAPIKey`
+
+### Flutter Gettting Started Docs
 
 This project is a starting point for a Flutter application.
 
